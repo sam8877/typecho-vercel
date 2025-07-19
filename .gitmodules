@@ -1,0 +1,3 @@
+[submodule "usr/themes/initial"]
+	path = usr/themes/initial
+	url = https://github.com/jielive/initial.git
